@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: d84dc2e96f5af453ebbd14fab34b775e
+timeCreated: 1490638224
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 2016_Fall Solar Panel
+    100002: 2016_Fall Solar Panel_2
+    100004: 2016_Fall Solar Panel_3
+    100006: 2016_Fall Solar Panel_4
+    100008: 2016_Fall Solar Panel_5
+    100010: 2016_Fall Solar Panel_6
+    100012: 2016_Fall Solar Panel_7
+    100014: 2016_Fall Solar Panel_8
+    100016: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW
+    100018: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_2
+    100020: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_3
+    100022: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_4
+    100024: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW
+    100026: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_10
+    100028: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_11
+    100030: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_12
+    100032: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_2
+    100034: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_3
+    100036: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_4
+    100038: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_5
+    100040: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_6
+    100042: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_7
+    100044: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_8
+    100046: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_9
+    100048: AcrylicTube
+    100050: Animation Dove
+    100052: //RootNode
+    100054: Big Lens
+    100056: Camera Cover Fall 2016
+    100058: Camera Cover Rev B
+    100060: Camera Flap
+    100062: Object_1
+    100064: Object_10
+    100066: Object_11
+    100068: Object_12
+    100070: Object_13
+    100072: Object_14
+    100074: Object_15
+    100076: Object_16
+    100078: Object_17
+    100080: Object_3
+    100082: Object_4
+    100084: Object_5
+    100086: Object_6
+    100088: Object_7
+    100090: Object_8
+    100092: Object_9
+    100094: solar rail rev4_B7
+    100096: solar rail rev4_B7_2
+    100098: solar rail rev4_B7_3
+    100100: solar rail rev4_B7_4
+    100102: Structural Frame 2 Rev B
+    400000: 2016_Fall Solar Panel
+    400002: 2016_Fall Solar Panel_2
+    400004: 2016_Fall Solar Panel_3
+    400006: 2016_Fall Solar Panel_4
+    400008: 2016_Fall Solar Panel_5
+    400010: 2016_Fall Solar Panel_6
+    400012: 2016_Fall Solar Panel_7
+    400014: 2016_Fall Solar Panel_8
+    400016: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW
+    400018: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_2
+    400020: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_3
+    400022: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_4
+    400024: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW
+    400026: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_10
+    400028: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_11
+    400030: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_12
+    400032: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_2
+    400034: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_3
+    400036: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_4
+    400038: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_5
+    400040: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_6
+    400042: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_7
+    400044: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_8
+    400046: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_9
+    400048: AcrylicTube
+    400050: Animation Dove
+    400052: //RootNode
+    400054: Big Lens
+    400056: Camera Cover Fall 2016
+    400058: Camera Cover Rev B
+    400060: Camera Flap
+    400062: Object_1
+    400064: Object_10
+    400066: Object_11
+    400068: Object_12
+    400070: Object_13
+    400072: Object_14
+    400074: Object_15
+    400076: Object_16
+    400078: Object_17
+    400080: Object_3
+    400082: Object_4
+    400084: Object_5
+    400086: Object_6
+    400088: Object_7
+    400090: Object_8
+    400092: Object_9
+    400094: solar rail rev4_B7
+    400096: solar rail rev4_B7_2
+    400098: solar rail rev4_B7_3
+    400100: solar rail rev4_B7_4
+    400102: Structural Frame 2 Rev B
+    2300000: 2016_Fall Solar Panel
+    2300002: 2016_Fall Solar Panel_2
+    2300004: 2016_Fall Solar Panel_3
+    2300006: 2016_Fall Solar Panel_4
+    2300008: 2016_Fall Solar Panel_5
+    2300010: 2016_Fall Solar Panel_6
+    2300012: 2016_Fall Solar Panel_7
+    2300014: 2016_Fall Solar Panel_8
+    2300016: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW
+    2300018: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_2
+    2300020: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_3
+    2300022: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_4
+    2300024: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW
+    2300026: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_10
+    2300028: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_11
+    2300030: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_12
+    2300032: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_2
+    2300034: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_3
+    2300036: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_4
+    2300038: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_5
+    2300040: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_6
+    2300042: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_7
+    2300044: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_8
+    2300046: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_9
+    2300048: AcrylicTube
+    2300050: Big Lens
+    2300052: Camera Cover Fall 2016
+    2300054: Camera Flap
+    2300056: Object_1
+    2300058: Object_10
+    2300060: Object_11
+    2300062: Object_12
+    2300064: Object_13
+    2300066: Object_14
+    2300068: Object_15
+    2300070: Object_16
+    2300072: Object_17
+    2300074: Object_3
+    2300076: Object_4
+    2300078: Object_5
+    2300080: Object_6
+    2300082: Object_7
+    2300084: Object_8
+    2300086: Object_9
+    2300088: solar rail rev4_B7
+    2300090: solar rail rev4_B7_2
+    2300092: solar rail rev4_B7_3
+    2300094: solar rail rev4_B7_4
+    2300096: Structural Frame 2 Rev B
+    3300000: 2016_Fall Solar Panel
+    3300002: 2016_Fall Solar Panel_2
+    3300004: 2016_Fall Solar Panel_3
+    3300006: 2016_Fall Solar Panel_4
+    3300008: 2016_Fall Solar Panel_5
+    3300010: 2016_Fall Solar Panel_6
+    3300012: 2016_Fall Solar Panel_7
+    3300014: 2016_Fall Solar Panel_8
+    3300016: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW
+    3300018: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_2
+    3300020: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_3
+    3300022: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_4
+    3300024: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW
+    3300026: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_10
+    3300028: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_11
+    3300030: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_12
+    3300032: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_2
+    3300034: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_3
+    3300036: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_4
+    3300038: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_5
+    3300040: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_6
+    3300042: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_7
+    3300044: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_8
+    3300046: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_9
+    3300048: AcrylicTube
+    3300050: Big Lens
+    3300052: Camera Cover Fall 2016
+    3300054: Camera Flap
+    3300056: Object_1
+    3300058: Object_10
+    3300060: Object_11
+    3300062: Object_12
+    3300064: Object_13
+    3300066: Object_14
+    3300068: Object_15
+    3300070: Object_16
+    3300072: Object_17
+    3300074: Object_3
+    3300076: Object_4
+    3300078: Object_5
+    3300080: Object_6
+    3300082: Object_7
+    3300084: Object_8
+    3300086: Object_9
+    3300088: solar rail rev4_B7
+    3300090: solar rail rev4_B7_2
+    3300092: solar rail rev4_B7_3
+    3300094: solar rail rev4_B7_4
+    3300096: Structural Frame 2 Rev B
+    4300000: 2016_Fall Solar Panel
+    4300002: Object_1
+    4300004: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW
+    4300006: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_2
+    4300008: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_3
+    4300010: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_4
+    4300012: Object_3
+    4300014: 2016_Fall Solar Panel_2
+    4300016: 2016_Fall Solar Panel_3
+    4300018: 2016_Fall Solar Panel_4
+    4300020: 2016_Fall Solar Panel_5
+    4300022: 2016_Fall Solar Panel_6
+    4300024: 2016_Fall Solar Panel_7
+    4300026: Object_4
+    4300028: Object_5
+    4300030: AcrylicTube
+    4300032: Object_6
+    4300034: Structural Frame 2 Rev B
+    4300036: Object_7
+    4300038: Big Lens
+    4300040: solar rail rev4_B7
+    4300042: solar rail rev4_B7_2
+    4300044: solar rail rev4_B7_3
+    4300046: solar rail rev4_B7_4
+    4300048: Object_8
+    4300050: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_5
+    4300052: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW
+    4300054: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_2
+    4300056: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_6
+    4300058: Object_9
+    4300060: Object_10
+    4300062: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_7
+    4300064: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_3
+    4300066: 91292A032_TYPE 18-8 SS SOCKET HEAD CAP SCREW_4
+    4300068: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_8
+    4300070: Object_11
+    4300072: Object_12
+    4300074: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_9
+    4300076: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_10
+    4300078: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_11
+    4300080: 92010A002_M3x5mm 18-8 SS FLAT HEAD PHIL MACHINE SCREW_12
+    4300082: Object_13
+    4300084: 2016_Fall Solar Panel_8
+    4300086: Object_14
+    4300088: Object_15
+    4300090: Object_16
+    4300092: Object_17
+    4300094: Camera Flap
+    4300096: Camera Cover Fall 2016
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

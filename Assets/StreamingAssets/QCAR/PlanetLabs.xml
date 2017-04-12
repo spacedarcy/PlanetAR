@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="doves" size="4.800000 2.856999" />
+    <ImageTarget name="ISS_LAUNCHER_PAINTING" size="1.550000 1.018881" />
+    <ImageTarget name="planetLogoLarge" size="1.000000 0.488333" />
+  </Tracking>
+</QCARConfig>
